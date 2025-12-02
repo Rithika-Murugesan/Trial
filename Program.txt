@@ -1,0 +1,26 @@
+2. Cloning an Existing Project (Copy from GitHub)
+
+This method is used when you want to download a project that already exists on GitHub.
+
+📌 Steps
+Step 1: Copy the GitHub repository URL
+
+Example:
+
+https://github.com/username/project.git
+
+Step 2: Use git clone
+git clone https://github.com/username/project.git
+
+Step 3: Enter the cloned folder
+cd project
+
+
+Now the full project is downloaded on your system.
+
+Step 4: Make changes and commit
+git add .
+git commit -m "Updated files"
+
+Step 5: Push changes back to GitHub
+git push
