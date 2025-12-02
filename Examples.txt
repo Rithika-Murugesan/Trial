@@ -1,0 +1,64 @@
+1. Working Directory (Your Local Files)
+💡 What it is:
+
+This is simply your project folder on your computer.
+Whatever you create/edit/delete is in your Working Directory.
+
+Examples:
+
+Creating a file
+
+echo "Code starts here" > app.js
+
+
+Editing a README
+
+Adding new folders
+
+Removing files
+
+Git sees three types of file states here:
+
+Untracked (new file Git doesn’t know yet)
+
+Modified (file changed after last commit)
+
+Deleted
+
+To see what Git detects:
+git status
+
+🟧 2. Staging Area (Index / Cache)
+💡 What it is:
+
+The Staging Area is like a “shopping cart” of changes you are preparing to commit.
+
+You choose which changes should go into the next commit.
+
+📌 Moving changes → Staging Area
+
+Use:
+
+git add filename
+
+
+or add everything:
+
+git add .
+
+💡 What happened here?
+
+Git created a snapshot of the files and stored it in the staging area.
+
+Example:
+
+File: app.js modified
+Command:
+
+git add app.js
+
+
+Now Git is ready to commit that change.
+
+To see staged files:
+git status
