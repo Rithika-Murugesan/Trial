@@ -6,14 +6,14 @@ def greet_user(name):
 
 
 if __name__ == "__main__":
-    user_name = "Analyst"
+    user_name = "Developer"
     message = greet_user(user_name)
     
     
     print(message)
 
     
-    num1 = 50
+    num1 = 60
     num2 = 20
     total = num1 + num2
     print(f"The sum of {num1} and {num2} is: {total}")
