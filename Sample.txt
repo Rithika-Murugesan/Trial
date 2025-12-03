@@ -2,6 +2,7 @@ Scenario
 
 Review code before staging.
 Before git add.
+Review after add.
 
 Check what exactly will go into the next commit.
 Master to frontend.
