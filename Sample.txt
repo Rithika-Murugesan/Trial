@@ -1,0 +1,6 @@
+Scenario
+
+Review code before staging.
+Before git add.
+
+Check what exactly will go into the next commit.
