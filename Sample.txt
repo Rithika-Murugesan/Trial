@@ -1,6 +1,6 @@
 Scenario
 
-Review code before staging.
+Modified version...
 Before git add.
 
 Check what exactly will go into the next commit.
