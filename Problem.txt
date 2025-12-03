@@ -7,3 +7,4 @@ Then type /. This creates a folder
 You can add more folders similarly
 Finally, give the new file a name (for example, .gitkeep which is conventionally used to make Git track otherwise empty folders; it is not a Git feature though)
 Finally, click Commit new file.
+Added new files.
