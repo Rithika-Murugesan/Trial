@@ -62,3 +62,4 @@ Now Git is ready to commit that change.
 
 To see staged files:
 git status
+Review after commit
