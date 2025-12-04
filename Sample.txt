@@ -1,10 +1,5 @@
-Scenario
+New change in master
+New line added...
 
-Recalling Contents...
-Before git add.
-Review after add.
-
-Check what exactly will go into the next commit.
-Master to frontend.
-Full Demo...
-
+Line 1 from master
+New Line is Added
