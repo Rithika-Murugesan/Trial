@@ -6,7 +6,7 @@ def greet_user(name):
 
 
 if __name__ == "__main__":
-    user_name = "Developer"
+    user_name = "Analyst"
     message = greet_user(user_name)
     
     
